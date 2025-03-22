@@ -1,2 +1,2 @@
 # car-price-regression
-<p>Using Multiple Regression Algorithm (Regression)</p>
+<p>Using Multiple Linear Regression Algorithm (Regression)</p>
